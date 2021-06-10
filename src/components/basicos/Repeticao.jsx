@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Produtos from '../data/produtos'
+import Produtos from '../../data/produtos'
 
 export default props => {
 
